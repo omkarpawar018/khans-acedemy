@@ -1,0 +1,261 @@
+#main{
+    height: 100%;
+    width: 100%;
+
+}
+#logo1{
+    height: 40%;
+    width: 100%;
+    color: rgb(25, 113, 214);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top:-10%;
+   
+}
+#logo1 h2{
+    color: black;
+}
+#girl-img{
+    display: flex;
+}
+#girl-img img{
+   height:300px;
+   width: 350px;
+   object-fit: cover;
+  padding-left: 60px;
+  padding-top: 30px;
+}
+#note1{
+    padding-left: 30px;
+    padding-top: 60px;
+   
+}
+
+#note1 h1{
+    color: rgb(59, 55, 55);
+    font-weight: 200;
+    font-size: 30px;
+}
+
+
+#note1 button{
+    height: 35px;
+    width: 70px;
+    margin: 20px;
+    background-color: rgb(25, 113, 214);
+    align-items: center;
+    justify-content: space-between;
+    color: aliceblue;
+    padding: 100x;
+}
+
+#note1 button:hover {
+    background-color: #45a049;
+  }
+
+
+  #note2 h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    font-weight: 300;
+    color: rgb(26, 25, 25);
+  
+  }
+
+  #three{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top: 70px;
+    gap: 40px;
+  }
+
+  #three img{
+    height: 80px;
+    width:fit-content;
+    object-fit: cover;
+  }
+
+  #three h1{
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(51, 49, 49);
+  }
+#three p{
+    color: rgb(51, 49, 49);
+}
+  #icon2{
+    padding-top: 20px;
+  }
+
+
+  #note3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+  }
+
+
+  #note3 img{
+    width: 50%;
+    height: fit-content;
+    margin-top: 100px;
+  }
+
+  #note3 p{
+    font-size: 12px;
+    font-weight: 200;
+    color: rgb(53, 50, 50);
+  }
+
+  #note3 h1{
+      padding-bottom: 70px;
+  }
+
+  #note4{
+    margin-left: 50px;
+    color: rgb(41, 39, 39);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+ 
+  #note4 button{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(25, 113, 214);
+    border: none;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  #note4 img{
+    width: 50%;
+    height:50%;
+    margin-top: 100px;
+  }
+
+
+  #note5{
+   
+    background-color: antiquewhite;
+    display: flex;
+    justify-content:flex-end
+    
+    
+  }
+
+  #note5 h1{
+    font-size: 30px;
+    font-weight: 100;
+    padding-left:30px;
+    margin-top: 90px;
+    color: rgb(36, 33, 33);
+  }
+
+  #note5 h3{
+    margin-top: 230px;
+    font-weight: 100;  
+}
+
+  #note5 img{
+  object-fit: cover;
+  object-position: 40px,50px;
+    margin-top: 120px;
+  }
+
+  #note6{
+       display: flex;
+       align-items: center;
+       justify-content: space-around;
+       color: rgb(65, 61, 61);
+       margin-top: 40px;
+  }
+
+  #note6 img{
+    height: 40%;
+    width: 40%;
+  }
+
+
+   
+  #note6 button{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(25, 113, 214);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    border: none;
+  }
+  
+  #note7{
+    margin-top: 200px;
+    margin-left: 450px;
+    justify-items: center;
+   
+    
+  }
+
+  #note7 button{
+    height: 40px;
+    width: 200px;
+   margin: 10px;
+   margin-left: 80px;
+   background-color:rgb(25, 113, 214); 
+   color: white;
+   border: none;
+   border-radius: 10px;
+
+  }
+
+  #note8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+    color: rgb(54, 50, 50);
+  }
+  #note8 h1{
+    font-weight: 500;
+  }
+
+  #companies{
+   margin-top: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+  }
+
+
+  #companies img{
+    height: 50px;
+    width:200px;
+    object-fit:contain;
+   
+
+  }
+
+  #companies1{
+    margin-top: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+
+  }
+
+  #companies1 img{
+    height: 50px;
+    width:200px;
+    object-fit:contain;
+   
+  }
+
+
+  
